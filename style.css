@@ -17,7 +17,12 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem; 
+    font-size: 1.75rem; 
+    color: #999ea1;
+}
+
+h3 {
+    font-size: 1.75rem; 
     color: #999ea1;
 }
 
@@ -28,7 +33,7 @@ hr {
 }
 
 .buffer {
-    height: 6rem; 
+    height: 5rem; 
 }
 
 .btn {
